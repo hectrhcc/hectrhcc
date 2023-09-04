@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hectorhelenio
 - 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning React library 
-- 💞️ I’m looking to collaborate on javascript
 - 📫 How to reach me hcontrerascorvacho@gmail.com
 
 <!---
