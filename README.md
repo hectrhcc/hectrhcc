@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hectorhelenio
-- 👀 I’m interested in front-end development 
-- 📫 How to reach me hcontrerascorvacho@gmail.com
+# Hi!, I'm Hector 👋 👨‍💻
 
-<!---
-hectorhelenio/hectorhelenio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline-block;">
+  <a href="https://www.linkedin.com/in/h%C3%A9ctor-helenio-contreras-corvacho" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-fff?logo=linkedin&logoColor=000&style=for-the-badge"></a>
+  <a href="mailto:hcontrerascorvacho@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/gmail%20-fff?style=for-the-badge&logo=gmail&logoColor=000"></a>
+  <a href="https://instagram.com/hectrhcc" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=Instagram&logoColor=000"></a>
+    <a href="https://codepen.io/hectrhcc" target="_blank"><img alt="" src="https://img.shields.io/badge/codepen-fff?style=for-the-badge&logo=codepen&logoColor=000"></a>
+</div>
