@@ -1,5 +1,6 @@
 
-## Hi, I'm Hector 👋 
-
-
-
+![gato trabajo remoto](https://media4.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47qi7y7i3ybys29xlypl677sil2lqal5k4di2ww3di&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+<br/>
+<a  href="https://www.linkedin.com/in/h%C3%A9ctor-helenio-contreras-corvacho" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a><a href="https://www.freecodecamp.org/espanol/hectrhcc" target="_blank">![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)</a><a href="https://stackoverflow.com/users/6697539/hectrhcc" target="_blank"> ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)</a><a href="mailto:hcontrerascorvacho@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a><br/>
+![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)<br/>
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)<a href="https://codepen.io/hectrhcc" target="_blank">![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)</a><a href="https://instagram.com/hectrhcc" target="_blank">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
