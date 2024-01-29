@@ -15,7 +15,6 @@ const frontendDeveloper = {
   }
 }
 
-// Creamos proyectos
 const blog = {
   name: 'Blog personal'
 };
@@ -24,7 +23,6 @@ const landing = {
   name: 'Landing page'  
 };
 
-// Agregamos proyectos
 frontendDeveloper.addProject(blog);
 frontendDeveloper.addProject(landing);
 
