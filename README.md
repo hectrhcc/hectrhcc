@@ -26,6 +26,5 @@ const landing = {
 frontendDeveloper.addProject(blog);
 frontendDeveloper.addProject(landing);
 
-// Presentación
 frontendDeveloper.introduce();
 ```
