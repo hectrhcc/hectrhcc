@@ -13,7 +13,7 @@
 const frontendDeveloper = {
   name: 'Hector',
   specialty: 'Frontend',
-  technologies: ['HTML5', 'CSS3', 'JavaScript', 'JQuery', 'Bootstrap', 'Saas','React'],
+  technologies: ['HTML5', 'CSS3', 'JavaScript', 'JQuery', 'Bootstrap', 'Saas', 'React'],
   projects: [],
 
   addProject(project) {
@@ -21,7 +21,7 @@ const frontendDeveloper = {
   },
 
   introduce() {
-    console.log(`Hi, my name is ${this.name} and I'm a frontend developer.`); 
+    console.log(`Hi, my name is ${this.name}, I'm a frontend developer, and I'm proficient in the following technologies: ${this.technologies.join(', ')}.`); 
   }
 }
 
@@ -37,4 +37,5 @@ frontendDeveloper.addProject(blog);
 frontendDeveloper.addProject(landing);
 
 frontendDeveloper.introduce();
+
 ```
