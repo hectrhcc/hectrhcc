@@ -21,8 +21,8 @@ const frontendDeveloper = {
   },
 
   introduce() {
-    console.log(`Hi, my name is ${this.name}, I'm a frontend developer, and I'm proficient in the following technologies:
-                \n${this.technologies.join(', ')}.`); 
+    console.log(`Hi, my name is ${this.name}, I'm a frontend developer,\n
+                and I'm proficient in the following technologies: ${this.technologies.join(', ')}.`); 
   }
 }
 
