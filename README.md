@@ -20,33 +20,34 @@
 
 ```js
 
-const frontendDeveloper = {
-  name: 'Hector',
-  specialty: 'Frontend',
-  technologies: ['HTML5', 'CSS3', 'JavaScript', 'JQuery', 'Bootstrap', 'Saas', 'React'],
-  projects: [],
-
-  addProject(project) {
+frontendDeveloper = {
+    name: 'Hector',
+    specialty: 'Frontend',
+    technologies: ['HTML5', 'CSS3', 'JavaScript', 'JQuery', 'Bootstrap', 'Sass', 'React'],
+    projects: [],
+    
+    addProject(project) {
     this.projects.push(project);
-  },
-
-  introduce() {
-    console.log(`Hi, my name is ${this.name}, I'm a frontend developer,\n
-                and I'm proficient in the following technologies: ${this.technologies.join(', ')}.`); 
-  }
-}
-
-const blog = {
-  name: 'Blog personal'
-};
-
-const landing = {
-  name: 'Landing page'  
-};
-
-frontendDeveloper.addProject(blog);
-frontendDeveloper.addProject(landing);
-
-frontendDeveloper.introduce();
+    },
+    
+    introduce() {
+    console.log(`Hi, my name is ${this.name}, I\'m a frontend developer,
+    and I\'m proficient in the following technologies: ${this.technologies.join(', ')}. 
+    I\'ve worked on the following projects: ${this.projects.map(p => p.name).join(', ')}`);
+    }
+    };
+    
+    const blog = {
+    name: 'Blog personal'
+    };
+    
+    const landing = {
+    name: 'Landing page'
+    };
+    
+    frontendDeveloper.addProject(blog);
+    frontendDeveloper.addProject(landing);
+    
+    frontendDeveloper.introduce();
 
 ```
