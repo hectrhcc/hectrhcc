@@ -23,7 +23,7 @@
 frontendDeveloper = {
     name: 'Hector',
     specialty: 'Frontend',
-    technologies: ['HTML','TailwindCSS','Sass','JavaScript','JQuery', 'React', 'NextJS', 'Redux'],
+    technologies: ['HTML','TailwindCSS','Sass','JavaScript','JQuery', 'React', 'NextJS'],
     projects: [],
     
     addProject(project) {
