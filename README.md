@@ -1,9 +1,7 @@
 [![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red.svg)](https://es.wikipedia.org/wiki/C%C3%B3digo_abierto)
 ![GitHub followers](https://img.shields.io/github/followers/hectrhcc?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/hectrhcc?label=Stars&style=social)
-<a href="https://www.linkedin.com/in/hector-contreras-corvacho/" target="_blank">
-  <img align="left" width="20px" src="https://simpleicons.vercel.app/linkedin/" />
-</a>
+
 <a href="https://www.frontendmentor.io/profile/hectrhcc" target="_blank">
   <img  align="left"  width="20px" src="https://simpleicons.vercel.app/frontendmentor/" />
 </a>
