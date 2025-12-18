@@ -4,30 +4,3 @@
 
 
 
-```js
-
-const frontendDeveloper = {
-  name: 'Hector',
-  specialty: 'Frontend',
-  technologies: ['HTML', 'TailwindCSS', 'Sass', 'JavaScript', 'JQuery', 'React', 'ReactNative', 'Astro', 'Firebase'],
-  projects: ['Solware', 'AgricolaDelNorte', 'DocenteMas', 'PortalMascotas', 'LosNueveTalentos'],
-
-  addProject(project) {
-    this.projects.push(project);
-  },
-
-  introduce() {
-    console.log(`Hi, my name is ${this.name}, I'm a developer,
-and I'm proficient in the following technologies: ${this.technologies.join(', ')}. 
-I've worked on the following projects: ${this.projects.join(', ')}`);
-  }
-};
-
-frontendDeveloper.addProject('One page');
-frontendDeveloper.addProject('Landing page');
-frontendDeveloper.addProject('Sitio corporativo');
-
-frontendDeveloper.introduce();
-
-
-```
