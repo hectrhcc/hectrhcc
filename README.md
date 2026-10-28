@@ -6,6 +6,6 @@
 
 ```
 
-hola mundo &>/dev/null
+Hola Mundo &>/dev/null
 
 ```
